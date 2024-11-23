@@ -3,13 +3,8 @@ This is a tiny project to make a simple calculator using 16x2 LCD Display, 4x4 K
 
 
 ### 1. Why This Project
-This is a part of **6th Semester** Lab Projects on the course **CSE 612** titled **Computer Interfacing and Microcontroller Lab**
+This is a part of  Lab Projects on the course   **Computer Interfacing and Microcontroller Lab**
 
-Session 2015-16
-
-Department of **Computer Science and Engineering**
-
-***University of Chittagong***.
 
 ===
 
